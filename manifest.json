@@ -1,0 +1,17 @@
+{
+  "short_name": "Grand City",
+  "name": "Grand City V7",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "description": "A strategic city-building simulation mixed with a physics-based tower stacking game. Manage economy, build skyscrapers, and watch your population grow."
+}
