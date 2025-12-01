@@ -1,5 +1,4 @@
 
-
 import React, { useState, useEffect } from 'react';
 import { useCityState } from './hooks/useCityState';
 import { Dashboard } from './components/Dashboard';
